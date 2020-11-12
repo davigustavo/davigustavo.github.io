@@ -1,11 +1,13 @@
 body {
     background-color: #7F617F;
     color: #7BD96C;
+    text-align: center;
 }
 
-a {
+a, ul{
     color: white;
     text-decoration: none;
+    list-style: none;
 }
 
 a:hover {
